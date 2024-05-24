@@ -1,5 +1,6 @@
 *.exe
 /target/
+/test-output/
 .settings
 .classpath
 .project
